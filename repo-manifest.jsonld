@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/beeware/dotnet-WebView2.WinForms/commit/f3c1a18615da2bd963c275930eb37bd95030feb9",
       "git:hexsha": "f3c1a18615da2bd963c275930eb37bd95030feb9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/beeware/dotnet-WebView2.WinForms/commit/96545c4f5c647ca92721281b115ccf23fddab734",
