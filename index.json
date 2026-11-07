@@ -1,0 +1,11 @@
+{
+  "org": "beeware",
+  "repo": "dotnet-WebView2.WinForms",
+  "versions": [
+    {
+      "commit": "f3c1a18615da2bd963c275930eb37bd95030feb9",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:32:39.795888+00:00"
+    }
+  ]
+}
